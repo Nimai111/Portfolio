@@ -2,7 +2,7 @@
 
 This is my **responsive personal portfolio website** built using **HTML, CSS, JavaScript**, and integrated with **EmailJS API** to enable contact form functionality. It showcases my background, skills, and projects — offering a direct way for visitors to connect with me.
 
-🚀 **Live Demo:** [https://tech-sahilsh.github.io/MyPortfolio/](https://tech-sahilsh.github.io/MyPortfolio/)
+
 
 ---
 
